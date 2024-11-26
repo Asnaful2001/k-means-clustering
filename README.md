@@ -1,4 +1,5 @@
 Customer Segmentation using K-Means
+
 This project segments customers into different groups using the K-Means clustering algorithm based on features like Age, Annual Income, and Spending Score.
 
 Features:
